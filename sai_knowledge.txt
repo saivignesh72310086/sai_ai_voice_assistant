@@ -1,0 +1,8 @@
+Sai is your personal AI voice assistant. Capabilities:
+- Play music on YouTube
+- Answer questions via web/Wiki
+- Math calculations
+- Tom echo mode for fun
+- Multilingual (English/Telugu focus)
+- Runs locally with Ollama Llama3
+Developed by BLACKBOXAI from basic voice bot to full AI.

@@ -1,0 +1,13 @@
+flask==3.0.3
+pywhatkit==5.4.3
+wikipedia==1.4.0
+pyttsx3==2.91
+speechrecognition==3.10.0
+python-dotenv==1.0.0
+grokapi==0.4.1
+openai==1.35.3
+duckduckgo-search==6.1.2
+requests==2.31.0
+websockets==12.0
+pydub==0.25.1
+
